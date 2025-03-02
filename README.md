@@ -28,7 +28,7 @@ Our most successful mean reversion/RSI strategy had the following characteristic
 - Buy stocks when the price is under the lower Bollinger band and RSI is under 20
 - Sell stocks when the price is over the upper Bollinger band and RSI is over 80
 
-However, this strategy performaed worse than both the buy-and-hold and market returns over the same period and only returned ~270%.
+However, this strategy performed worse than both the buy-and-hold and market returns over the same period and only returned ~270%.
 
 The team recommends adding more risk management strategies, such as a defined stop-loss implementation. 
 
